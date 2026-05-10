@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in  HGS<br><br>🌱 I’m currently learning Python, HTML5, CSS, JavaScript, SQL, React.js<br><br>👯 I collaborated on CRM,Procurment,StrongBuild,Accounts<br><br>📫 How to reach me saurabhvviet@gmail.com
+🔭 I am currently working in  HGS<br><br>🌱 I’m currently learning Python, HTML5, CSS, JavaScript, SQL, React.js<br><br>👯 I collaborated on CRM,Procurment,StrongBuild,Accounts<br><br>📫 How to reach me saurabhvviet@gmail.com
 
 
 ## 🌐 Socials:
